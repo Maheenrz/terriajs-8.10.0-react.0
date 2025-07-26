@@ -22,3 +22,8 @@ ts-out/
 
 # Catalog index generation files
 catalog-index*.json
+
+
+
+sonar-project.properties
+extract-issues.py
